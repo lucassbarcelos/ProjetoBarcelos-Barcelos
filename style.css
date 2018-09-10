@@ -1,0 +1,58 @@
+h2 {
+    color:#0D1321;
+    font-size: 20px;
+    font-family:'Courier New', Courier, monospace;
+    font-weight: lighter;
+}
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    color:#564D4A;
+    background-color:#f7f7f7;
+    margin: 0;
+    
+}
+h1 {
+    font-family: font-family: 'Montserrat', sans-serif;
+    font-size: 50px;
+    color:#f8b500;
+    margin:0px;
+    font-weight: lighter;
+    
+}
+#banner{
+    box-shadow: #0D1321 30px;
+    background-image: linear-gradient(-225deg, rgba(0,101,168,0.6) 0%, rgba(0,36,61,0.6) 50%) , url(./images/blur-bottle-bright-273238.jpg);
+    text-align: center;
+    height: 100vh;
+    background-size: cover !important;
+    display: flex;
+    align-items: center;
+    ///justify-content: center;
+    
+}
+a{
+    font-size:30px;
+    color:#9B1D20;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: none;
+    color:#0D1321;
+
+}
+
+#footer{
+    background-color: #0D1321;
+    color: #f7f7f7;
+    border-radius: 3px;
+    text-align: center;
+    padding: 30px ;
+}
+.features  {
+    text-align: center;
+    background-image: url("./images/beverage-blank-break-997719.jpg");
+    background-size: cover;
+    padding:  180px;
+    margin: 0px;
+}
